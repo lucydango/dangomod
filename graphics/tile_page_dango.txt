@@ -1,0 +1,28 @@
+tile_page_dango
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:CREATURES_DANGO]
+     [FILE:images/creatures_dango.png]
+     [TILE_DIM:32:32]
+     [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:CREATURES_LIME_DANGO]
+     [FILE:images/creatures_lime_dango.png]
+     [TILE_DIM:32:32]
+     [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:CREATURES_GINGERSNAP_DANGO]
+     [FILE:images/creatures_gingersnap_dango.png]
+     [TILE_DIM:32:32]
+     [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:CREATURES_LEMON_DANGO]
+     [FILE:images/creatures_lemon_dango.png]
+     [TILE_DIM:32:32]
+     [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:CREATURES_SUGARCRASH_DANGO]
+     [FILE:images/creatures_sugarcrash_dango.png]
+     [TILE_DIM:32:32]
+     [PAGE_DIM_PIXELS:32:32]
