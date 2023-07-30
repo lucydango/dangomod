@@ -1,4 +1,4 @@
-[image](https://github.com/lucydango/dangomod/assets/90605576/1d4043e8-f981-4317-84df-02500b2a8902)
+[#Dango Mod](https://github.com/lucydango/dangomod/assets/90605576/1d4043e8-f981-4317-84df-02500b2a8902)
 
 Adds adorable dango creatures from TFT to Dwarf Fortress!
 
